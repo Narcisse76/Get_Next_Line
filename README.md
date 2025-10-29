@@ -18,7 +18,9 @@ Gestion des retours multiples et du stockage intermédiaire
 ---
 ## 🔧 Compilation Make
 make → compile le projet
+
 make clean → supprime les fichiers .o
+
 make fclean → supprime .o et l’exécutable
 
 ---
