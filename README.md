@@ -1,20 +1,15 @@
 # 📄 Get_Next_Line – Lecture ligne par ligne en C
 image
----
 Le projet Get_Next_Line consiste à coder une fonction capable de lire un fichier ou l’entrée standard une ligne à la fois, sans perdre le fil entre deux appels. Il t’apprend à manipuler les buffers, gérer la mémoire dynamique et comprendre le fonctionnement bas niveau des lectures de fichiers en C.
 ---
 ## ✅ Compétences développées
+ Gestion fine de la mémoire et des leaks
 
-### Gestion fine de la mémoire et des leaks
+Manipulation de pointeurs et de chaînes
 
+Lecture et stockage de données avec read()
 
-### Manipulation de pointeurs et de chaînes
-
-
-### Lecture et stockage de données avec read()
-
-
-### Gestion des retours multiples et du stockage intermédiaire
+Gestion des retours multiples et du stockage intermédiaire
 
 ---
 ## 🔧 Compilation Make
